@@ -4,6 +4,7 @@
 [![Julia Version](https://img.shields.io/badge/julia-1.6%2B-9558B2.svg)](https://julialang.org)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17550902.svg)](https://doi.org/10.5281/zenodo.17550902)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--4741--3108-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-4741-3108)
 
 ## Abstract
 
@@ -55,6 +56,8 @@ The Pantheon Architecture demonstrates that multiple specialized intelligences c
 - Inference Speed: <300μs per specialist query
 - Memory Footprint: <5KB for complete pantheon
 - Confidence Coherence: Consistent across collaborative decisions
+
+---
 
 ## Quick Start
 
@@ -118,8 +121,11 @@ Contact:
 muslimsoap@gmail.com
 Or
 rainmanp7@gmail.com
+
 License
 Apache 2.0 License - See LICENSE file for details.
+Creation Location:
+zone4, Santacruz, Davao Del Sur, Mindanao, Philippines
 
 Research Statement
 This work represents a paradigm shift in AI architecture, demonstrating that specialized intelligences can emerge and collaborate within single models, producing measurable emergent properties that transcend individual capabilities. The Pantheon Architecture offers a viable alternative to scale-based AI development, focusing on architectural elegance and collaborative emergence rather than parameter count.
