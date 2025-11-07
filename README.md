@@ -1,10 +1,9 @@
 
-```markdown
 # Pantheon Architecture: Single-Model Emergent Specialization & Cross-Dimensional Collaboration
 
 [![Julia Version](https://img.shields.io/badge/julia-1.6%2B-9558B2.svg)](https://julialang.org)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17550902.svg)](https://doi.org/10.5281/zenodo.17550902)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17550902.svg)](https://doi.org/10.5281/zenodo.17550902)
 
 ## Abstract
 
@@ -65,86 +64,65 @@ The Pantheon Architecture demonstrates that multiple specialized intelligences c
 
 ### Installation
 ```bash
-git clone https://github.com/rainmanp7/PantheonArchitecture
+git clone [https://github.com/rainmanp7/PantheonArchitecture](https://github.com/rainmanp7/PantheonArchitecture)
 cd PantheonArchitecture
-```
 
-### Running Validation Suite
-```bash
+Running Validation Suite
 julia test_eamc_final_suite.jl
-```
 
 This will execute the complete validation suite, demonstrating:
-- Individual specialist performance profiles
-- Cross-dimensional collaboration effects
-- Confidence emergence measurements
-- Creative synthesis validation
-
-### Repository Structure
-```
+ * Individual specialist performance profiles
+ * Cross-dimensional collaboration effects
+ * Confidence emergence measurements
+ * Creative synthesis validation
+Repository Structure
 PantheonArchitecture/
 ├── EAMC_weights.json          # Single file containing all specialists
 ├── test_eamc_final_suite.jl      # Main validation suite
 ├── EAMC_Final_Validation_Report.json  # Experimental results
 ├── docs/                         # Architecture documentation
 └── examples/                     # Usage examples and tutorials
-```
 
-## Scientific Significance
-
-### Theoretical Contributions
-1. Demonstrates emergent multi-specialization within single models
-2. Establishes measurable confidence emergence as collaboration metric
-3. Reveals intrinsic cross-dimensional collaboration mechanisms
-4. Provides architecture for transparent, bounded AI systems
-
-### Practical Implications
-1. Efficient multi-capability AI through emergent specialization
-2. Transparent reasoning with clear capability boundaries
-3. Collaborative problem-solving beyond individual limitations
-4. New pathway for AI development beyond scaling approaches
-
-## Research Integrity
-
-### Reproducibility
+Scientific Significance
+Theoretical Contributions
+ * Demonstrates emergent multi-specialization within single models
+ * Establishes measurable confidence emergence as collaboration metric
+ * Reveals intrinsic cross-dimensional collaboration mechanisms
+ * Provides architecture for transparent, bounded AI systems
+Practical Implications
+ * Efficient multi-capability AI through emergent specialization
+ * Transparent reasoning with clear capability boundaries
+ * Collaborative problem-solving beyond individual limitations
+ * New pathway for AI development beyond scaling approaches
+Research Integrity
+Reproducibility
 All experiments are fully reproducible using the provided code and weights. The system demonstrates genuine emergent properties through structured validation protocols.
-
-### Transparency
-- Complete validation suite with documented protocols
-- Raw experimental data and confidence measurements
-- Clear specialist capability boundaries
-- Open architecture specifications
-
-## Citation
-
-```bibtex
+Transparency
+ * Complete validation suite with documented protocols
+ * Raw experimental data and confidence measurements
+ * Clear specialist capability boundaries
+ * Open architecture specifications
+Citation
 @software{pantheon_architecture_2024,
   title = {Pantheon Architecture: Single-Model Emergent Specialization and Cross-Dimensional Collaboration},
   author = {Brown, Christopher},
   year = {2025},
   doi = {10.5281/zenodo.17550902},
-  url = {https://github.com/rainmanp7/PantheonArchitecture}
+  url = {[https://github.com/rainmanp7/PantheonArchitecture](https://github.com/rainmanp7/PantheonArchitecture)}
 }
-```
 
-## Authors
-
-Christopher Brown  
+Authors
+Christopher Brown
 ORCID: 0009-0008-4741-3108
-Contact: 
+Contact:
 muslimsoap@gmail.com
 Or
-rainmanp7@gmail.com 
-
-## License
-
+rainmanp7@gmail.com
+License
 Apache 2.0 License - See LICENSE file for details.
 
-## Research Statement
-
+Research Statement
 This work represents a paradigm shift in AI architecture, demonstrating that specialized intelligences can emerge and collaborate within single models, producing measurable emergent properties that transcend individual capabilities. The Pantheon Architecture offers a viable alternative to scale-based AI development, focusing on architectural elegance and collaborative emergence rather than parameter count.
 
----
+This research demonstrates that the future of AI may lie not in building larger models, but in building smarter collaborations between specialized emergent intelligences.
 
-*This research demonstrates that the future of AI may lie not in building larger models, but in building smarter collaborations between specialized emergent intelligences.*
-```
